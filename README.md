@@ -12,3 +12,5 @@ The reason we decompose the data is to understand the underlying patterns of the
 
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/680261f1-1255-440c-b259-9aa7b5021c38" />
+
+AirPassengers has increasing variance over time, multiplicative decomposition usually fits better, but we will verify this by comparing the two "additive" and "multiplicative"
